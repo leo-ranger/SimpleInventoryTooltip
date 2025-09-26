@@ -1,0 +1,10 @@
+{
+  "Author": "Leo_Ranger",
+  "Name": "SimpleInventoryTooltip",
+  "Description": "A simple inventory tooltip system with selectable icons.",
+  "InternalName": "SimpleInventoryTooltip",
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "https://github.com/leo-ranger/SimpleInventoryTooltip",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 10
+}
