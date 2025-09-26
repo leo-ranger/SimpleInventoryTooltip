@@ -1,0 +1,11 @@
+{
+  "Author": "leo-ranger",
+  "Name": "Simple Inventory Tooltip",
+  "Punchline": "Shows tooltips and allows icon selection.",
+  "Description": "Adds customizable item tooltips and a scrollable icon picker in-game.",
+  "InternalName": "SimpleInventoryTooltip",
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "https://github.com/leo-ranger/SimpleInventoryTooltip",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 10
+}
